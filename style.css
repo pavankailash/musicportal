@@ -1,0 +1,51 @@
+ul{
+	
+	list-style-type: none;
+	margin:0;
+	padding: 0;	
+	background-color: aqua;
+	overflow: hidden;
+}
+
+li{
+		float: left;
+		font-size: 22px;
+}
+
+li a{
+	display: block;
+	padding: 14px 16px;
+}
+
+.aboutme{
+	background-color: pink;
+text-align: center
+}
+
+.varnams{
+text-align: centerfont-style: Calibri;
+background-color: yellow;
+}
+
+.krithis{
+	text-align: center;
+	font-style: Times New Roman;
+	background-color: orange;
+}
+.miscellanous
+{
+	background-color: green;
+	text-align: center;
+	font-size: 44px;
+}
+
+.contact{
+	color:white;
+text-align: center;
+background-color: brown;
+}
+.footer{
+	color: black;
+	background-color: aqua;
+	text-align: center;	
+}
